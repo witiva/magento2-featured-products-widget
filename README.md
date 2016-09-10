@@ -11,7 +11,7 @@ edit to the following in repositories section
         },
         {
             "type": "vcs",
-            "url": "https://github.com/witiva/magento2-featured-products-widget"
+            "url": "https://github.com/witiva/magento2-featured-products-widget" 
         }
     ],
 </pre>
