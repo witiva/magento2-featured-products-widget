@@ -11,7 +11,7 @@ edit to the following in repositories section
         },
         {
             "type": "vcs",
-            "url": "https://github.com/erkkwitiva/featuredwidget"
+            "url": "https://github.com/witiva/magento2-featured-products-widget"
         }
     ],
 </pre>
@@ -57,5 +57,3 @@ to Enable this module you need to follow these steps:
 	<pre>bin/magento setup:di:compile</pre>
 </li>
 </ul>
-
-
